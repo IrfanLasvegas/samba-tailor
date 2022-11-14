@@ -16,7 +16,7 @@ Samba Tailor adalah aplikasi berbasis web untuk mencatat semua aktifitas dalam t
 - Penambahan fitur
 - dll
 
-sampai sumpa di bulan desember!
+sampai jumpa di bulan desember!
 
 ## License
 
