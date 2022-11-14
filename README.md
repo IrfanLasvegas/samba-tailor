@@ -9,12 +9,13 @@
 
 ## Samba Tailor
 
-Samba Tailor adalah aplikasi berbasis web untuk mencatat semua aktifitas dalam tailor, hal ini dilakukan untuk mempermudah umkm samba dalam memanajemen   
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Samba Tailor adalah aplikasi berbasis web untuk mencatat semua aktifitas dalam tailor, hal ini dilakukan untuk mempermudah samba dalam memanajemen usahanya. berdasarkan jadwal yang sudah di tentukan update web dari versi awal ke versi selanjutnya akan rampung di 1 desember 2022. Berikut beberapa update yang saya :
 
 - Upgrade laravel 8.x ke 9.x
 - Penambahan fitur
 - dll
+
+sampai sumpa di bulan desember!
 
 ## License
 
