@@ -9,7 +9,7 @@
 
 ## Samba Tailor
 
-Samba Tailor adalah aplikasi berbasis web untuk mencatat semua aktifitas dalam tailor, hal ini dilakukan untuk mempermudah samba dalam memanajemen usahanya. berdasarkan jadwal yang sudah di tentukan update web dari versi awal ke versi selanjutnya akan rampung di 1 desember 2022. Berikut beberapa update yang saya :
+Samba Tailor adalah aplikasi berbasis web untuk mencatat semua aktifitas dalam tailor, hal ini dilakukan untuk mempermudah samba dalam memanajemen usahanya mengingat samba tailor sudah memiliki cabang di beberapa daerah. berdasarkan jadwal yang sudah di tentukan update web dari versi awal ke versi selanjutnya akan rampung di 1 desember 2022. Berikut beberapa updatenya :
 
 - Upgrade laravel 8.x ke 9.x
 - pembaruan UI
